@@ -1,0 +1,17 @@
+*
+
+!.gitignore
+
+!dataset_overbite/
+!dataset_overbite/**/*
+
+!test/
+!test/**/*
+
+!train/
+!train/**/*
+
+!val/
+!val/**/*
+
+!CNN_Overbite_Classification.ipynb
